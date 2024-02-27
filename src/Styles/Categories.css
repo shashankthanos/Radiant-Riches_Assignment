@@ -1,0 +1,350 @@
+.categories h1 {
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 1006px;
+    height: 60px;
+    top: 102px;
+    left: 284px;
+}
+
+#first {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: gray;
+}
+
+.checkicon {
+    position: absolute;
+}
+
+.span1 {
+    margin-left: 2%;
+    margin-top: 5px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.infoicon {
+    position: absolute;
+    margin-left: 20%;
+}
+
+.span2 {
+    margin-top: 5px;
+    position: absolute;
+    margin-left: 22%;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#first select {
+    border: none;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+#second {
+    height: 70px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: gray;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#third {
+    margin-left: 4%;
+    height: 70px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    color: rgba(114, 125, 135, 1);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.fourth p {
+    width: 495px;
+    height: 44px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    color: rgba(44, 56, 74, 1);
+    margin-left: 10%;
+}
+
+.container {
+    display: flex;
+    margin-left: 10%;
+}
+
+.card3 {
+    width: 333px;
+    height: 425px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card3 img {
+    width: 141px;
+    height: 103px;
+
+}
+
+.percentage {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: rgba(7, 71, 134, 1);
+    background-color: rgba(242, 244, 247, 1);
+    border-radius: 8px;
+}
+
+.offer {
+    border-radius: 8px;
+    background-color: rgba(242, 244, 247, 1);
+    color: rgba(7, 71, 134, 1);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.card3 .build {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.card3 .support {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: rgba(98, 110, 121, 1);
+    text-align: center;
+}
+
+.card3 .cost {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(92, 104, 116, 1);
+    margin-right: 5%;
+}
+
+.card3 .ocost {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(159, 169, 179, 1);
+    margin-right: 5%;
+}
+
+.card3 .discount {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(239, 76, 93, 1);
+}
+
+.btn3 {
+    width: 292px;
+    height: 48px;
+    top: 537px;
+    left: 1051px;
+    border-radius: 12px;
+    background: rgba(27, 136, 244, 1);
+    border: none;
+}
+
+.fifth {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1024px;
+    height: 171px;
+    margin-left: 10%;
+}
+
+.fifth .sign {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(92, 104, 116, 1);
+    width: 398px;
+    height: 88px;  
+}
+
+.fifth input {
+    width: 348px;
+    height: 52px;
+    border-radius: 12px, 0px, 0px, 12px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.signin{
+    display: flex;
+    background-color: rgba(27, 136, 244, 1);
+}
+
+.signin span {
+    width: 97px;
+    height: 52;
+    border-radius: 0px, 12px, 12px, 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.699999988079071px;
+    text-align: center;
+    color: white;
+    margin-top: 3%;
+    background: rgba(27, 136, 244, 1);
+}
+
+@media screen and (max-width: 768px) {
+    .categories h1 {
+      font-size: 32px; 
+      line-height: 40px;
+      width: auto;
+      margin: 20px; 
+    }
+  
+    #first, #second, #third {
+      flex-direction: column; 
+      align-items: center;
+      text-align: center;
+    }
+  
+    #first .span1 {
+      margin-left: 0; 
+      margin-top: 0; 
+    }
+  
+    #first .infoicon {
+      margin-left: 0; 
+    }
+  
+    #first select {
+      margin-top: 10px; 
+    }
+  
+    #second span, #third span {
+      margin: 5px 0; 
+    }
+  
+    .container {
+      flex-wrap: wrap; 
+      justify-content: center; 
+    }
+  
+    .card3 {
+      width: 90%; 
+      margin: 10px; 
+    }
+  
+    .fifth {
+      flex-direction: column; 
+      align-items: center;
+      text-align: center;
+    }
+  
+    .fifth .sign {
+      width: 90%; 
+      margin-bottom: 20px; 
+    }
+  
+    .fifth input {
+      width: 90%; 
+    }
+  
+    .signin {
+      flex-direction: column; 
+    }
+  
+    .signin span {
+      width: 90%; 
+    }
+  }
+  @media (max-width: 768px) {
+    #first,
+    #second,
+    #third {
+        flex-direction: column; 
+        align-items: flex-start; 
+    }
+
+    #first,
+    #third {
+        padding: 10px; 
+    }
+
+    #first .span1,
+    #first .span2 {
+        margin-top: 10px; 
+    }
+
+    #first select {
+        margin-top: 10px; 
+    }
+
+    #second span,
+    #third span,
+    #third svg {
+        margin-right: 0; 
+        margin-bottom: 5px; 
+    }
+}
